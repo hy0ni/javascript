@@ -55,4 +55,6 @@
 
 * requestAnimationFrame [requestAnimationFrame.html](./%ED%8C%9D%EC%97%85/awards.js%ED%8C%9D%EC%97%85/popup.html)
 
+* slide [slide.html](./slide/slide.html) / [slide.js](./slide/slide.js)
+
 
