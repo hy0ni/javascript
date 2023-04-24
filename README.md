@@ -47,3 +47,10 @@
   33. 배열 특정 값 위치(index) 찾기 - findIndex() [javascript29.js](./강의%20따라하기/javascript29.js)
 
 
+<br>
+
+#### json
+
+* json사용 팝업 [awards_popup.html](./%ED%8C%9D%EC%97%85/popup.html) / [awards.js](./%ED%8C%9D%EC%97%85/awards.js%ED%8C%9D%EC%97%85/popup.html)
+
+
