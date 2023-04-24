@@ -53,4 +53,6 @@
 
 * json사용 팝업 [awards_popup.html](./%ED%8C%9D%EC%97%85/popup.html) / [awards.js](./%ED%8C%9D%EC%97%85/awards.js%ED%8C%9D%EC%97%85/popup.html)
 
+* requestAnimationFrame [requestAnimationFrame.html](./%ED%8C%9D%EC%97%85/awards.js%ED%8C%9D%EC%97%85/popup.html)
+
 
